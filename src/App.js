@@ -11,7 +11,6 @@ function App() {
 
 	return (
 		<main>
-			{/* TODO: Show modal only after all questions have been presented */}
 			<Modal />
 			<SetupForm />
 		</main>
